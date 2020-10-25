@@ -1,4 +1,4 @@
-public class proglaba1{
+public class Proglaba1{
    public static void main(String[] args){
         
      short d[]=new short[7];                  // создание массива d
